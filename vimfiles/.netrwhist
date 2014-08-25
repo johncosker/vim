@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='C:\Users\jcosker\AppData\Local\Temp\scp23175\opt\americandynamics\venvr\django\victor_web\templates\cameras'
+let g:netrw_dirhist_2='C:/Users/jcosker/AppData/Local/Temp/scp23175/opt/americandynamics/venvr/django/victor_web/templates'
+let g:netrw_dirhist_3='C:/Users/jcosker/AppData/Local/Temp/scp23175/opt/americandynamics/venvr/django/victor_web'
+let g:netrw_dirhist_4='C:/Users/jcosker/AppData/Local/Temp/scp23175/opt/americandynamics/venvr/django'
+let g:netrw_dirhist_5='C:\Users\jcosker\AppData\Local\Temp\scp01742\opt\americandynamics\venvr\django\victor_web\templates\cameras'
