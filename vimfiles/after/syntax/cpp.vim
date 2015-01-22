@@ -482,6 +482,7 @@ syntax keyword cppSTLfunction vsprintf
 syntax keyword cppSTLfunction vswprintf
 syntax keyword cppSTLfunction vwprintf
 syntax keyword cppSTLfunction width
+syntax keyword cppSTLfunction height
 syntax keyword cppSTLfunction wprintf
 syntax keyword cppSTLfunction write
 syntax keyword cppSTLfunction wscanf

@@ -17,6 +17,8 @@ set laststatus=2
 autocmd VimEnter * wincmd p
 filetype plugin on
 nnoremap <leader>ev :vsplit $MYVIMRC<cr>
+nmap f <Space>f
+nmap F <Space>F
 nnoremap <leader>sv :source $MYVIMRC<cr>
 colorscheme slate
 set background=light
